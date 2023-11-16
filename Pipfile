@@ -10,6 +10,7 @@ drf-yasg = "*"
 django-allauth = "*"
 dj-rest-auth = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
